@@ -68,8 +68,8 @@ MSc coursework. Sequence classification for sentiment and sarcasm across Austral
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shah-arbisoft&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com/?user=shah-arbisoft&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shah-arbisoft&theme=tokyonight&hide_border=true&disable_animations=true&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com/?user=shah-arbisoft&hide_border=true&disable_animations=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats">
   </picture>
 </p>
 
