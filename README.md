@@ -54,9 +54,7 @@ Alongside that I have freelanced on Fiverr and Upwork since 2019, **200+ project
 
 Give it a raw RGB image and it detects objects, segments them, estimates monocular depth, lifts each object into 3D, then computes the seven spatial predicates between every ordered pair from the geometry. No human decides a label anywhere in the chain. Exports scene graphs as Visual Genome JSON, YOLO txt and h5. Dockerised, config driven, with tests and an eval harness.
 
-**[robot-factcheck](https://github.com/shah-arbisoft/robot-factcheck)** &nbsp;<a href="https://shah-arbisoft.github.io/robot-factcheck/"><img src="https://img.shields.io/badge/live%20demo-2ea043?style=flat-square" alt="Live demo"></a>
-
-The validation half of the dissertation. A small web game that crowd-checks the annotator against a stratified sample of roughly 2,000 claims, drawn specifically from object pairs no human ever labelled. That is the part with no ground truth, which is exactly where you want to know whether the tool holds up.
+To check it where it mattered, I validated the output against a stratified sample of roughly 2,000 predicted relations drawn from object pairs that had no human ground truth, rather than only scoring it on the easy labelled subset.
 
 **[COMM061-PG29](https://github.com/shah-arbisoft/COMM061-PG29)** &nbsp;<img src="https://img.shields.io/badge/NLP-1f6feb?style=flat-square" alt="NLP">
 
