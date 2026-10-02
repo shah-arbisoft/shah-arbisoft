@@ -20,7 +20,7 @@ I work on the ingestion side of data platforms: getting messy data out of the we
 
 Four years of that was at **Arbisoft** on StyleSage, a fashion intelligence platform whose parent was acquired by Centric Software. I owned the ingestion layer: a fleet of **600+ Scrapy spiders** pulling pricing and product data off hundreds of retailer sites, held at around **99.5% uptime**. The hard part was never writing one scraper. It was keeping several hundred of them alive while the sites underneath kept changing. I put schema checks, deduplication and completeness validation through the pipeline so the analytics team stopped losing days to cleanup. Promoted to Senior Software Engineer in 2024.
 
-Alongside that I have freelanced on Fiverr and Upwork since 2019, **200+ projects** for clients across the US, UK, Australia and Europe. I finished an **MSc in Data Science at the University of Surrey** in 2026.
+Alongside that I freelanced on Fiverr and Upwork from 2019 to 2025, **200+ projects** for clients across the US, UK, Australia and Europe. I finished an **MSc in Data Science at the University of Surrey** in 2026.
 
 ---
 
