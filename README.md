@@ -28,7 +28,7 @@ Alongside that I freelanced on Fiverr and Upwork from 2019 to 2025, **200+ proje
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" alt="Python, Django, Flask, FastAPI"><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" alt="Postgres, MySQL, MongoDB, Redis, Kafka"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Postgres, MySQL, MongoDB, Redis"><br>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,jenkins&theme=dark" alt="Docker, Linux, Git, GitHub Actions, Jenkins"><br>
   <img src="https://skillicons.dev/icons?i=gcp,aws,pytorch,sklearn,selenium&theme=dark" alt="GCP, AWS, PyTorch, scikit-learn, Selenium">
 </p>
@@ -44,7 +44,7 @@ Alongside that I freelanced on Fiverr and Upwork from 2019 to 2025, **200+ proje
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
 </p>
 
-<p align="center"><sub>Airflow, dbt and Spark are what I am currently building depth in, rather than production experience.</sub></p>
+<p align="center"><sub>Airflow and dbt are what I am currently building depth in, rather than production experience.</sub></p>
 
 ---
 
@@ -54,22 +54,11 @@ Alongside that I freelanced on Fiverr and Upwork from 2019 to 2025, **200+ proje
 
 Give it a raw RGB image and it detects objects, segments them, estimates monocular depth, lifts each object into 3D, then computes the seven spatial predicates between every ordered pair from the geometry. No human decides a label anywhere in the chain. Exports scene graphs as Visual Genome JSON, YOLO txt and h5. Dockerised, config driven, with tests and an eval harness.
 
-To check it where it mattered, I validated the output against a stratified sample of roughly 2,000 predicted relations drawn from object pairs that had no human ground truth, rather than only scoring it on the easy labelled subset.
+To check it where it mattered, I validated the output against a stratified sample of roughly 2,000 predicted relations drawn from object pairs that had no human ground truth, rather than only scoring it on the easy labelled subset. The crowd half of that check ran as a small web game, [robot-factcheck](https://github.com/shah-arbisoft/robot-factcheck).
 
 **[COMM061-PG29](https://github.com/shah-arbisoft/COMM061-PG29)** &nbsp;<img src="https://img.shields.io/badge/NLP-1f6feb?style=flat-square" alt="NLP">
 
 MSc coursework. Sequence classification for sentiment and sarcasm across Australian, Indian and British English, using the BESSTIE dataset. Sarcasm is the interesting half: the surface sentiment of a sarcastic sentence usually points the opposite way to what the writer means, so a model tuned only for sentiment gets confidently wrong answers.
-
----
-
-### GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shah-arbisoft&theme=tokyonight&hide_border=true&disable_animations=true&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com/?user=shah-arbisoft&hide_border=true&disable_animations=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats">
-  </picture>
-</p>
 
 ---
 
